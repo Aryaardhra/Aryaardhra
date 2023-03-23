@@ -4,7 +4,7 @@
 
 I'm
 Full Stack Developer
- The crossover between design and programming has always been of interest to me, enjoy researching and building innovative programs to the needs of the business. I have a wide range of skills that include back-end development using open source technologies ( nodeJs), front-end development (ReactJs, HTML5, CSS3, JavaScript, Responsive), and database (MongoDB).
+The crossover between design and programming has always been of interest to me, enjoy researching and building innovative programs to the needs of the business. I have a wide range of skills that include back-end development using open source technologies ( nodeJs), front-end development (ReactJs, HTML5, CSS3, JavaScript, Responsive), and database (MongoDB).
 
 Languages and Tools: 
 
