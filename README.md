@@ -6,7 +6,9 @@ I'm
 Full Stack Developer
 The crossover between design and programming has always been of interest to me, enjoy researching and building innovative programs to the needs of the business. I have a wide range of skills that include back-end development using open source technologies ( nodeJs), front-end development (ReactJs, HTML5, CSS3, JavaScript, Responsive), and database (MongoDB).
 
+
 Languages and Tools: 
+
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
@@ -62,6 +64,10 @@ Languages and Tools:
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
+
+
+
+
 
 Here are some ideas to get you started:
 
